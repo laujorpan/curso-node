@@ -1,0 +1,12 @@
+[Thu Oct 04 2018 21:35:22 GMT+0200 (CEST)] INFO hubot-slack adapter v4.5.5
+warn: SlackDataStore is deprecated and will be removed in the next major version. See project documentation for a migration guide.
+warn: SlackDataStore is deprecated and will be removed in the next major version. See project documentation for a migration guide.
+[Thu Oct 04 2018 21:35:22 GMT+0200 (CEST)] INFO Logged in as @ghibli-user2 in workspace adm-github-org
+[Thu Oct 04 2018 21:35:23 GMT+0200 (CEST)] INFO Connected to Slack RTM
+[Thu Oct 04 2018 21:35:23 GMT+0200 (CEST)] INFO /Users/nodejs/Documents/laujorpan/clase8/bot/scripts/films.js is using deprecated documentation syntax
+[Thu Oct 04 2018 21:35:23 GMT+0200 (CEST)] INFO /Users/nodejs/Documents/laujorpan/clase8/bot/scripts/hello.js is using deprecated documentation syntax
+[Thu Oct 04 2018 21:35:23 GMT+0200 (CEST)] WARNING Loading scripts from hubot-scripts.json is deprecated and will be removed in 3.0 (https://github.com/github/hubot-scripts/issues/1113) in favor of packages for each script.
+
+Your hubot-scripts.json is empty, so you just need to remove it.
+[Thu Oct 04 2018 21:35:23 GMT+0200 (CEST)] INFO hubot-redis-brain: Using default redis on localhost:6379
+[Thu Oct 04 2018 21:35:23 GMT+0200 (CEST)] ERROR hubot-heroku-keepalive included, but missing HUBOT_HEROKU_KEEPALIVE_URL. `heroku config:set HUBOT_HEROKU_KEEPALIVE_URL=$(heroku apps:info -s | grep web.url | cut -d= -f2)`

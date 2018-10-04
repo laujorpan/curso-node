@@ -1,11 +1,10 @@
 //This must be only once in the ap and be loaded in layout!!!
 var config = {
-  apiKey: "AIzaSyDA6CsBNuUJz8CuKiY-pcyedUB_bf737Uc",
-  authDomain: "curso-node-90ljp.firebaseapp.com",
-  databaseURL: "https://curso-node-90ljp.firebaseio.com",
-  projectId: "curso-node-90ljp",
-  storageBucket: "curso-node-90ljp.appspot.com",
-  messagingSenderId: "798351416804"
+  authDomain: "",
+  databaseURL: "https://curso-node-nuevo90ljp.firebaseio.com",
+  projectId: "curso-node-nuevo90ljp",
+  storageBucket: "curso-node-nuevo90ljp.appspot.com",
+  messagingSenderId: ""
 };
 firebase.initializeApp(config);
 
